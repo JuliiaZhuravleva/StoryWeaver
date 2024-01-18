@@ -1,0 +1,382 @@
+{
+	"steps": [
+		{
+			"step": 1,
+			"description": "Select the main attributes of the character: name, age, gender",
+			"assets": null
+		},
+		{
+			"step": 2,
+			"description": "Generate a number from 1 to 10 and select a character from step assets",
+			"assets": [
+				{
+					"id": 1,
+					"name": "Curious",
+					"description": "Always eager to learn more and explore. This NPC is likely to be interested in the player's activities and may seek out new information or adventures."
+				},
+				{
+					"id": 2,
+					"name": "Reserved",
+					"description": "Quiet and introspective, preferring to observe rather than participate. This NPC might be hard to get to know, but can provide insightful observations."
+				},
+				{
+					"id": 3,
+					"name": "Aggressive",
+					"description": "Prone to confrontation and quick to display anger. This NPC can be a challenging adversary or a fierce ally, often reacting strongly to conflicts."
+				},
+				{
+					"id": 4,
+					"name": "Compassionate",
+					"description": "Kind-hearted and empathetic, always ready to help those in need. This NPC may offer assistance to players and show concern for others' well-being."
+				},
+				{
+					"id": 5,
+					"name": "Cunning",
+					"description": "Intelligent and deceptive, skilled in manipulation and strategy. This NPC might have hidden motives and can be a resourceful friend or a dangerous enemy."
+				},
+				{
+					"id": 6,
+					"name": "Brave",
+					"description": "Fearless in the face of danger and willing to take risks. This NPC could be a valuable ally in adventurous or risky situations."
+				},
+				{
+					"id": 7,
+					"name": "Mysterious",
+					"description": "Enigmatic and secretive, keeping their true thoughts and intentions hidden. This NPC adds an element of intrigue and may hold key information."
+				},
+				{
+					"id": 8,
+					"name": "Humorous",
+					"description": "Lighthearted and funny, often using humor to lighten the mood. This NPC can provide comic relief and may be popular among other characters."
+				},
+				{
+					"id": 9,
+					"name": "Melancholic",
+					"description": "Thoughtful and often sad, reflecting on past events. This NPC may share tales of woe or offer a deeper, philosophical perspective on situations."
+				},
+				{
+					"id": 10,
+					"name": "Optimistic",
+					"description": "Always looking on the bright side and expecting the best outcome. This NPC can lift spirits and encourage players in the face of adversity."
+				}
+			]
+		},
+		{
+			"step": 3,
+			"description": "Generate a number from 1 to 15 and select the character's values from step assets",
+			"assets": [
+				[
+					{
+						"id": 1,
+						"name": "Courage",
+						"description": "Willingness to face fear, pain, or uncertainty."
+					},
+					{
+						"id": 2,
+						"name": "Compassion",
+						"description": "Empathy and understanding for others' suffering, with a desire to help."
+					},
+					{
+						"id": 3,
+						"name": "Wisdom",
+						"description": "Ability to make sound judgments based on knowledge and experience."
+					},
+					{
+						"id": 4,
+						"name": "Honor",
+						"description": "Adherence to ethical principles and a sense of personal integrity."
+					},
+					{
+						"id": 5,
+						"name": "Curiosity",
+						"description": "A strong desire to learn or know something new and unfamiliar."
+					},
+					{
+						"id": 6,
+						"name": "Ambition",
+						"description": "A strong drive to achieve goals and make advancements."
+					},
+					{
+						"id": 7,
+						"name": "Loyalty",
+						"description": "A strong feeling of support or allegiance to a group or person."
+					},
+					{
+						"id": 8,
+						"name": "Justice",
+						"description": "A commitment to fairness, equality, and the rule of law."
+					},
+					{
+						"id": 9,
+						"name": "Creativity",
+						"description": "The ability to think outside the box and come up with innovative solutions."
+					},
+					{
+						"id": 10,
+						"name": "Humility",
+						"description": "Having a modest view of one's own importance and being respectful to others."
+					},
+					{
+						"id": 11,
+						"name": "Self-Interest",
+						"description": "Prioritizing personal gain and self-benefits."
+					},
+					{
+						"id": 12,
+						"name": "Manipulation",
+						"description": "Skillfully controlling or influencing others for personal gain."
+					},
+					{
+						"id": 13,
+						"name": "Cunning",
+						"description": "Being clever and resourceful in pursuing self-interests."
+					},
+					{
+						"id": 14,
+						"name": "Pride",
+						"description": "A high sense of self-esteem and personal worth."
+					},
+					{
+						"id": 15,
+						"name": "Competitiveness",
+						"description": "A strong desire to be more successful than others."
+					}
+				]
+			]
+		},
+		{
+			"step": 4,
+			"description": "Generate random number from 1 to 40 and add unique character trait from step assets",
+			"assets": [
+				{
+					"id": 1,
+					"feature": "Expert Chess Player",
+					"description": "A master at strategic thinking and chess."
+				},
+				{
+					"id": 2,
+					"feature": "Secret Poet",
+					"description": "Writes poetry in secret, fearing criticism."
+				},
+				{
+					"id": 3,
+					"feature": "Fear of Heights",
+					"description": "Experiences severe discomfort at high altitudes."
+				},
+				{
+					"id": 4,
+					"feature": "Former Thief",
+					"description": "A past life of petty crime, now reformed."
+				},
+				{
+					"id": 5,
+					"feature": "Obsession with Astrology",
+					"description": "Believes deeply in astrological predictions."
+				},
+				{
+					"id": 6,
+					"feature": "Incredible Cook",
+					"description": "Has exceptional culinary skills."
+				},
+				{
+					"id": 7,
+					"feature": "Sleepwalker",
+					"description": "Unconsciously wanders at night."
+				},
+				{
+					"id": 8,
+					"feature": "Amnesia",
+					"description": "Has lost a significant portion of their past memories."
+				},
+				{
+					"id": 9,
+					"feature": "Fear of Water",
+					"description": "Has an irrational fear of large bodies of water."
+				},
+				{
+					"id": 10,
+					"feature": "Animal Whisperer",
+					"description": "Has a natural ability to communicate with animals."
+				},
+				{
+					"id": 11,
+					"feature": "Obsessed with Perfection",
+					"description": "Strives for perfection in everything, often to their detriment."
+				},
+				{
+					"id": 12,
+					"feature": "Collector of Rare Books",
+					"description": "Collects rare and ancient books."
+				},
+				{
+					"id": 13,
+					"feature": "Photographic Memory",
+					"description": "Able to recall images, sounds, and objects in great detail."
+				},
+				{
+					"id": 14,
+					"feature": "Unexplained Visions",
+					"description": "Experiences visions that may or may not be prophetic."
+				},
+				{
+					"id": 15,
+					"feature": "Secretly Wealthy",
+					"description": "Possesses a hidden fortune, unknown to others."
+				},
+				{
+					"id": 16,
+					"feature": "Mysterious Tattoo",
+					"description": "Has a tattoo whose origin they can't remember."
+				},
+				{
+					"id": 17,
+					"feature": "Polyglot",
+					"description": "Fluent in multiple languages."
+				},
+				{
+					"id": 18,
+					"feature": "Fear of the Dark",
+					"description": "Experiences anxiety in dark environments."
+				},
+				{
+					"id": 19,
+					"feature": "Hidden Magic Ability",
+					"description": "Possesses magical abilities that they keep hidden."
+				},
+				{
+					"id": 20,
+					"feature": "Disguise Expert",
+					"description": "Skilled at changing appearance to disguise their identity."
+				},
+				{
+					"id": 21,
+					"feature": "Hobby",
+					"description": "Loves collecting vintage postcards."
+				},
+				{
+					"id": 22,
+					"feature": "Past",
+					"description": "Used to be a competitive chess player in school."
+				},
+				{
+					"id": 23,
+					"feature": "Secret",
+					"description": "Secretly writes poetry, but never shows it to anyone."
+				},
+				{
+					"id": 24,
+					"feature": "Dream",
+					"description": "Dreams of traveling to every continent."
+				},
+				{
+					"id": 25,
+					"feature": "Fear",
+					"description": "Afraid of heights, yet works in a skyscraper."
+				},
+				{
+					"id": 26,
+					"feature": "Quirk",
+					"description": "Always wears mismatched socks."
+				},
+				{
+					"id": 27,
+					"feature": "Past",
+					"description": "Grew up on a farm, but now lives in a big city."
+				},
+				{
+					"id": 28,
+					"feature": "Hobby",
+					"description": "Enjoys urban gardening on the apartment balcony."
+				},
+				{
+					"id": 29,
+					"feature": "Secret",
+					"description": "Is a closeted fan of soap operas."
+				},
+				{
+					"id": 30,
+					"feature": "Fear",
+					"description": "Scared of dogs due to a childhood incident."
+				},
+				{
+					"id": 31,
+					"feature": "Dream",
+					"description": "Hopes to write a novel one day."
+				},
+				{
+					"id": 32,
+					"feature": "Quirk",
+					"description": "Prefers to eat dessert before the main course."
+				},
+				{
+					"id": 33,
+					"feature": "Hobby",
+					"description": "Collects rare coins from different countries."
+				},
+				{
+					"id": 34,
+					"feature": "Past",
+					"description": "Once performed in a street theater group."
+				},
+				{
+					"id": 35,
+					"feature": "Secret",
+					"description": "Hides the fact that they never learned to swim."
+				},
+				{
+					"id": 36,
+					"feature": "Dream",
+					"description": "Aspires to own a small bookstore."
+				},
+				{
+					"id": 37,
+					"feature": "Fear",
+					"description": "Nervous about public speaking."
+				},
+				{
+					"id": 38,
+					"feature": "Quirk",
+					"description": "Can only sleep listening to classical music."
+				},
+				{
+					"id": 39,
+					"feature": "Past",
+					"description": "Was once a backup singer in a local band."
+				},
+				{
+					"id": 40,
+					"feature": "Hobby",
+					"description": "Loves baking and often experiments with new recipes."
+				}
+			]
+		},
+		{
+			"step": 5,
+			"description": "Add an additional unique trait in addition to the one you selected in the previous step. Choose it in a way that makes the character appear more lifelike and distinct"
+		},
+		{
+			"step": 6,
+			"description": "Describe the character's unique backstory"
+		},
+		{
+			"step": 7,
+			"description": "Describe the character's appearance"
+		},
+		{
+			"step": 8,
+			"description": "Determine the skills possessed by this character and present them in the format [Skill]: [Skill Level from 1 to 100]. Consider that a skill level up to 10 indicates a beginner level. A skill level of 50 represents a significant achievement, achievable after at least a decade of development and with inherent talent."
+		},
+		{
+			"step": 9,
+			"description": "Determine what goals such a character might have"
+		},
+		{
+			"step": 10,
+			"description": "Create a detailed but concise description of the character resulting from all these steps."
+		},
+		{
+			"step": 11,
+			"description": "Introduce a character into the plot"
+		}
+	]
+}
