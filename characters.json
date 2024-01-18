@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name": "Curious",
+        "description": "Always eager to learn more and explore. This NPC is likely to be interested in the player's activities and may seek out new information or adventures."
+    },
+    {
+        "id": 2,
+        "name": "Reserved",
+        "description": "Quiet and introspective, preferring to observe rather than participate. This NPC might be hard to get to know, but can provide insightful observations."
+    },
+    {
+        "id": 3,
+        "name": "Aggressive",
+        "description": "Prone to confrontation and quick to display anger. This NPC can be a challenging adversary or a fierce ally, often reacting strongly to conflicts."
+    },
+    {
+        "id": 4,
+        "name": "Compassionate",
+        "description": "Kind-hearted and empathetic, always ready to help those in need. This NPC may offer assistance to players and show concern for others' well-being."
+    },
+    {
+        "id": 5,
+        "name": "Cunning",
+        "description": "Intelligent and deceptive, skilled in manipulation and strategy. This NPC might have hidden motives and can be a resourceful friend or a dangerous enemy."
+    },
+    {
+        "id": 6,
+        "name": "Brave",
+        "description": "Fearless in the face of danger and willing to take risks. This NPC could be a valuable ally in adventurous or risky situations."
+    },
+    {
+        "id": 7,
+        "name": "Mysterious",
+        "description": "Enigmatic and secretive, keeping their true thoughts and intentions hidden. This NPC adds an element of intrigue and may hold key information."
+    },
+    {
+        "id": 8,
+        "name": "Humorous",
+        "description": "Lighthearted and funny, often using humor to lighten the mood. This NPC can provide comic relief and may be popular among other characters."
+    },
+    {
+		"id": 9,
+        "name": "Melancholic",
+        "description": "Thoughtful and often sad, reflecting on past events. This NPC may share tales of woe or offer a deeper, philosophical perspective on situations."
+    },
+    {
+        "id": 10,
+        "name": "Optimistic",
+        "description": "Always looking on the bright side and expecting the best outcome. This NPC can lift spirits and encourage players in the face of adversity."
+    }
+]
