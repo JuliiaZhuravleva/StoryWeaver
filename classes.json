@@ -1,52 +1,112 @@
 [
     {
         "id": 1,
-        "name": "Warrior",
-        "description": "A strong and brave fighter skilled in hand-to-hand combat. Warriors are known for their physical strength and ability to wear heavy armor and wield various weapons."
+        "fantasy": {
+            "name": "Warrior",
+            "description": "A strong and brave fighter skilled in hand-to-hand combat. Warriors are known for their physical strength and ability to wear heavy armor and wield various weapons."
+        },
+        "sci-fi": {
+            "name": "Space Marine",
+            "description": "An elite soldier equipped with advanced armor and weaponry, trained for combat in various environments, including space and alien worlds."
+        }
     },
     {
         "id": 2,
-        "name": "Mage",
-        "description": "A wielder of arcane powers, capable of casting powerful spells. Mages often have a deep knowledge of ancient lore and mystical artifacts."
+        "fantasy": {
+            "name": "Mage",
+            "description": "A wielder of arcane powers, capable of casting powerful spells. Mages often have a deep knowledge of ancient lore and mystical artifacts."
+        },
+        "sci-fi": {
+            "name": "Tech Wizard",
+            "description": "A master of advanced technology, manipulating digital environments and hacking into secure systems with ease."
+        }
     },
     {
         "id": 3,
-        "name": "Rogue",
-        "description": "A cunning and agile character, adept in stealth and surprise attacks. Rogues are skilled in lockpicking, pickpocketing, and finding traps."
+        "fantasy": {
+            "name": "Rogue",
+            "description": "A cunning and agile character, adept in stealth and surprise attacks. Rogues are skilled in lockpicking, pickpocketing, and finding traps."
+        },
+        "sci-fi": {
+            "name": "Infiltrator",
+            "description": "Specializing in stealth and espionage, this agent excels in gathering intelligence and sabotaging enemy operations."
+        }
     },
     {
         "id": 4,
-        "name": "Healer",
-        "description": "A compassionate and skilled medic who can heal wounds and cure diseases. Healers are essential in supporting their team in and out of battle."
+        "fantasy": {
+            "name": "Healer",
+            "description": "A compassionate and skilled medic who can heal wounds and cure diseases. Healers are essential in supporting their team in and out of battle."
+        },
+        "sci-fi": {
+            "name": "Field Medic",
+            "description": "Equipped with advanced medical technology, this medic is capable of treating injuries and illnesses in the harsh conditions of alien planets."
+        }
     },
     {
         "id": 5,
-        "name": "Ranger",
-        "description": "A master of survival and tracking in the wilderness. Rangers are skilled in archery, animal handling, and navigating through natural terrains."
+        "fantasy": {
+            "name": "Ranger",
+            "description": "A master of survival and tracking in the wilderness. Rangers are skilled in archery, animal handling, and navigating through natural terrains."
+        },
+        "sci-fi": {
+            "name": "Scout",
+            "description": "An expert in reconnaissance and survival in diverse environments, using high-tech equipment for navigation and observation."
+        }
     },
     {
         "id": 6,
-        "name": "Necromancer",
-        "description": "A practitioner of dark arts, able to summon and control the undead. Necromancers possess knowledge of forbidden spells and curses."
+        "fantasy": {
+            "name": "Necromancer",
+            "description": "A practitioner of dark arts, able to summon and control the undead. Necromancers possess knowledge of forbidden spells and curses."
+        },
+        "sci-fi": {
+            "name": "Bio-Engineer",
+            "description": "A scientist specializing in genetic manipulation, creating and controlling genetically-modified organisms for various purposes."
+        }
     },
     {
         "id": 7,
-        "name": "Paladin",
-        "description": "A holy warrior imbued with divine powers. Paladins are dedicated to fighting evil, healing the innocent, and inspiring those around them."
+        "fantasy": {
+            "name": "Paladin",
+            "description": "A holy warrior imbued with divine powers. Paladins are dedicated to fighting evil, healing the innocent, and inspiring those around them."
+        },
+        "sci-fi": {
+            "name": "Galactic Knight",
+            "description": "A noble warrior sworn to uphold the peace across the galaxy, wielding advanced energy weapons and armored suits."
+        }
     },
     {
         "id": 8,
-        "name": "Assassin",
-        "description": "A master of deadly arts, specializing in quick and silent elimination of targets. Assassins are experts in poisons, daggers, and stealth tactics."
+        "fantasy": {
+            "name": "Assassin",
+            "description": "A master of deadly arts, specializing in quick and silent elimination of targets. Assassins are experts in poisons, daggers, and stealth tactics."
+        },
+        "sci-fi": {
+            "name": "Eliminator",
+            "description": "A highly trained operative skilled in the art of elimination, using futuristic weaponry and cloaking technology."
+        }
     },
     {
         "id": 9,
-        "name": "Bard",
-        "description": "A charismatic performer with the power to inspire and manipulate through music and speech. Bards are knowledgeable in lore and skilled in diplomacy."
+        "fantasy": {
+            "name": "Bard",
+            "description": "A charismatic performer with the power to inspire and manipulate through music and speech. Bards are knowledgeable in lore and skilled in diplomacy."
+        },
+        "sci-fi": {
+            "name": "Diplomat",
+            "description": "An expert in intergalactic relations and communication, skilled in negotiation and conflict resolution among different alien species."
+        }
     },
     {
         "id": 10,
-        "name": "Alchemist",
-        "description": "A scholar of chemical and magical sciences, capable of creating potions and elixirs. Alchemists are adept at manipulating physical and magical substances."
+        "fantasy": {
+            "name": "Alchemist",
+            "description": "A scholar of chemical and magical sciences, capable of creating potions and elixirs. Alchemists are adept at manipulating physical and magical substances."
+        },
+        "sci-fi": {
+            "name": "Chemist",
+            "description": "A scientist expert in chemical engineering and nanotechnology, developing advanced substances and materials."
+        }
     }
 ]

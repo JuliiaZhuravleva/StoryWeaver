@@ -2,51 +2,61 @@
     {
         "id": 1,
         "name": "Forgotten City",
-        "description": "Ruined buildings and overgrown streets where the wind whispers ancient secrets. This long-abandoned city hides many mysteries and dangers, as well as rare artifacts of ancient civilizations."
+        "description": "Ruined buildings and overgrown streets where the wind whispers ancient secrets. This long-abandoned city hides many mysteries and dangers, as well as rare artifacts of ancient civilizations.",
+        "type": "fantasy"
     },
     {
         "id": 2,
         "name": "Deep Space",
-        "description": "The boundless cosmos, full of unexplored planets, stars, and black holes. Players can explore distant galaxies, encounter new life forms, and face cosmic anomalies."
+        "description": "The boundless cosmos, full of unexplored planets, stars, and black holes. Players can explore distant galaxies, encounter new life forms, and face cosmic anomalies.",
+        "type": "sci-fi"
     },
     {
         "id": 3,
         "name": "Age of Dragons",
-        "description": "A world where dragons rule the skies, and humanity struggles for survival. Here, players can become dragon slayers, wizards, or learn ancient spells to tame these mighty creatures."
+        "description": "A world where dragons rule the skies, and humanity struggles for survival. Here, players can become dragon slayers, wizards, or learn ancient spells to tame these mighty creatures.",
+        "type": "fantasy"
     },
     {
         "id": 4,
         "name": "Underwater Kingdom",
-        "description": "A mysterious world under the water, ruled by sea creatures and sunken cities. Players can explore underwater caves, find lost treasures, and interact with marine inhabitants."
+        "description": "A mysterious world under the water, ruled by sea creatures and sunken cities. Players can explore underwater caves, find lost treasures, and interact with marine inhabitants.",
+        "type": "fantasy"
     },
     {
         "id": 5,
         "name": "Post-Apocalyptic Landscape",
-        "description": "The Earth after a global catastrophe, where survivors struggle for resources. Destroyed cities and abandoned factories create a grim atmosphere of survival amidst the ruins of civilization."
+        "description": "The Earth after a global catastrophe, where survivors struggle for resources. Destroyed cities and abandoned factories create a grim atmosphere of survival amidst the ruins of civilization.",
+        "type": "sci-fi"
     },
     {
         "id": 6,
         "name": "Enchanted Forest",
-        "description": "A magical forest full of wonders and dangers. Home to fairies, witches, and other mythical creatures. Players can embark on a journey to uncover the secrets of this mysterious place."
+        "description": "A magical forest full of wonders and dangers. Home to fairies, witches, and other mythical creatures. Players can embark on a journey to uncover the secrets of this mysterious place.",
+        "type": "fantasy"
     },
     {
         "id": 7,
         "name": "Medieval Castle",
-        "description": "The era of knights and princesses, where each castle hides its own secrets and intrigues. Players can participate in knightly tournaments, battles for power, or explore dark dungeons."
+        "description": "The era of knights and princesses, where each castle hides its own secrets and intrigues. Players can participate in knightly tournaments, battles for power, or explore dark dungeons.",
+        "type": "fantasy"
     },
     {
         "id": 8,
         "name": "Secret Laboratory",
-        "description": "A modern laboratory where experiments are conducted on the edge of science and fantasy. Players can encounter unknown technologies, genetically modified creatures, and mysterious conspiracies."
+        "description": "A modern laboratory where experiments are conducted on the edge of science and fantasy. Players can encounter unknown technologies, genetically modified creatures, and mysterious conspiracies.",
+        "type": "sci-fi"
     },
     {
         "id": 9,
         "name": "Desert Oasis",
-        "description": "A picturesque oasis in the midst of a lifeless desert. This place can be a refuge for travelers or a battleground for fights over water and resources in the harsh desert conditions."
+        "description": "A picturesque oasis in the midst of a lifeless desert. This place can be a refuge for travelers or a battleground for fights over water and resources in the harsh desert conditions.",
+        "type": "fantasy"
     },
     {
         "id": 10,
         "name": "City of the Future",
-        "description": "A high-tech city of the future with flying cars, robots, and advanced technologies. Here, players can face technological wonders and moral dilemmas of societal development."
+        "description": "A high-tech city of the future with flying cars, robots, and advanced technologies. Here, players can face technological wonders and moral dilemmas of societal development.",
+        "type": "sci-fi"
     }
 ]
