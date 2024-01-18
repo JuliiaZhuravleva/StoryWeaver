@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name": "Warrior",
+        "description": "A strong and brave fighter skilled in hand-to-hand combat. Warriors are known for their physical strength and ability to wear heavy armor and wield various weapons."
+    },
+    {
+        "id": 2,
+        "name": "Mage",
+        "description": "A wielder of arcane powers, capable of casting powerful spells. Mages often have a deep knowledge of ancient lore and mystical artifacts."
+    },
+    {
+        "id": 3,
+        "name": "Rogue",
+        "description": "A cunning and agile character, adept in stealth and surprise attacks. Rogues are skilled in lockpicking, pickpocketing, and finding traps."
+    },
+    {
+        "id": 4,
+        "name": "Healer",
+        "description": "A compassionate and skilled medic who can heal wounds and cure diseases. Healers are essential in supporting their team in and out of battle."
+    },
+    {
+        "id": 5,
+        "name": "Ranger",
+        "description": "A master of survival and tracking in the wilderness. Rangers are skilled in archery, animal handling, and navigating through natural terrains."
+    },
+    {
+        "id": 6,
+        "name": "Necromancer",
+        "description": "A practitioner of dark arts, able to summon and control the undead. Necromancers possess knowledge of forbidden spells and curses."
+    },
+    {
+        "id": 7,
+        "name": "Paladin",
+        "description": "A holy warrior imbued with divine powers. Paladins are dedicated to fighting evil, healing the innocent, and inspiring those around them."
+    },
+    {
+        "id": 8,
+        "name": "Assassin",
+        "description": "A master of deadly arts, specializing in quick and silent elimination of targets. Assassins are experts in poisons, daggers, and stealth tactics."
+    },
+    {
+        "id": 9,
+        "name": "Bard",
+        "description": "A charismatic performer with the power to inspire and manipulate through music and speech. Bards are knowledgeable in lore and skilled in diplomacy."
+    },
+    {
+        "id": 10,
+        "name": "Alchemist",
+        "description": "A scholar of chemical and magical sciences, capable of creating potions and elixirs. Alchemists are adept at manipulating physical and magical substances."
+    }
+]
