@@ -1,62 +1,122 @@
 [
-    {
-        "id": 1,
-        "name": "Forgotten City",
-        "description": "Ruined buildings and overgrown streets where the wind whispers ancient secrets. This long-abandoned city hides many mysteries and dangers, as well as rare artifacts of ancient civilizations.",
-        "type": "fantasy"
-    },
-    {
-        "id": 2,
-        "name": "Deep Space",
-        "description": "The boundless cosmos, full of unexplored planets, stars, and black holes. Players can explore distant galaxies, encounter new life forms, and face cosmic anomalies.",
-        "type": "sci-fi"
-    },
-    {
-        "id": 3,
-        "name": "Age of Dragons",
-        "description": "A world where dragons rule the skies, and humanity struggles for survival. Here, players can become dragon slayers, wizards, or learn ancient spells to tame these mighty creatures.",
-        "type": "fantasy"
-    },
-    {
-        "id": 4,
-        "name": "Underwater Kingdom",
-        "description": "A mysterious world under the water, ruled by sea creatures and sunken cities. Players can explore underwater caves, find lost treasures, and interact with marine inhabitants.",
-        "type": "fantasy"
-    },
-    {
-        "id": 5,
-        "name": "Post-Apocalyptic Landscape",
-        "description": "The Earth after a global catastrophe, where survivors struggle for resources. Destroyed cities and abandoned factories create a grim atmosphere of survival amidst the ruins of civilization.",
-        "type": "sci-fi"
-    },
-    {
-        "id": 6,
-        "name": "Enchanted Forest",
-        "description": "A magical forest full of wonders and dangers. Home to fairies, witches, and other mythical creatures. Players can embark on a journey to uncover the secrets of this mysterious place.",
-        "type": "fantasy"
-    },
-    {
-        "id": 7,
-        "name": "Medieval Castle",
-        "description": "The era of knights and princesses, where each castle hides its own secrets and intrigues. Players can participate in knightly tournaments, battles for power, or explore dark dungeons.",
-        "type": "fantasy"
-    },
-    {
-        "id": 8,
-        "name": "Secret Laboratory",
-        "description": "A modern laboratory where experiments are conducted on the edge of science and fantasy. Players can encounter unknown technologies, genetically modified creatures, and mysterious conspiracies.",
-        "type": "sci-fi"
-    },
-    {
-        "id": 9,
-        "name": "Desert Oasis",
-        "description": "A picturesque oasis in the midst of a lifeless desert. This place can be a refuge for travelers or a battleground for fights over water and resources in the harsh desert conditions.",
-        "type": "fantasy"
-    },
-    {
-        "id": 10,
-        "name": "City of the Future",
-        "description": "A high-tech city of the future with flying cars, robots, and advanced technologies. Here, players can face technological wonders and moral dilemmas of societal development.",
-        "type": "sci-fi"
-    }
+	{
+		"id": 1,
+		"name": "Forgotten City",
+		"description": "Ruined buildings and overgrown streets where the wind whispers ancient secrets. This long-abandoned city hides many mysteries and dangers, as well as rare artifacts of ancient civilizations.",
+		"type": "fantasy"
+	},
+	{
+		"id": 2,
+		"name": "Deep Space",
+		"description": "The boundless cosmos, full of unexplored planets, stars, and black holes. Players can explore distant galaxies, encounter new life forms, and face cosmic anomalies.",
+		"type": "sci-fi"
+	},
+	{
+		"id": 3,
+		"name": "Age of Dragons",
+		"description": "A world where dragons rule the skies, and humanity struggles for survival. Here, players can become dragon slayers, wizards, or learn ancient spells to tame these mighty creatures.",
+		"type": "fantasy"
+	},
+	{
+		"id": 4,
+		"name": "Whispering Canyons",
+		"description": "A vast network of canyons and ravines, carved into the earth by ancient rivers, now long gone. This labyrinthine world is filled with echoes of forgotten civilizations, hidden oases, and mysterious cave systems. Players can navigate treacherous paths, discover relics of ancient cultures, and encounter secretive tribes living in harmony with nature.",
+		"type": "fantasy"
+	},
+	{
+		"id": 5,
+		"name": "Post-Apocalyptic Landscape",
+		"description": "The Earth after a global catastrophe, where survivors struggle for resources. Destroyed cities and abandoned factories create a grim atmosphere of survival amidst the ruins of civilization.",
+		"type": "sci-fi"
+	},
+	{
+		"id": 6,
+		"name": "Enchanted Forest",
+		"description": "A magical forest full of wonders and dangers. Home to fairies, witches, and other mythical creatures. Players can embark on a journey to uncover the secrets of this mysterious place.",
+		"type": "fantasy"
+	},
+	{
+		"id": 7,
+		"name": "Medieval Castle",
+		"description": "The era of knights and princesses, where each castle hides its own secrets and intrigues. Players can participate in knightly tournaments, battles for power, or explore dark dungeons.",
+		"type": "fantasy"
+	},
+	{
+		"id": 8,
+		"name": "Secret Laboratory",
+		"description": "A modern laboratory where experiments are conducted on the edge of science and fantasy. Players can encounter unknown technologies, genetically modified creatures, and mysterious conspiracies.",
+		"type": "sci-fi"
+	},
+	{
+		"id": 9,
+		"name": "Desert Oasis",
+		"description": "A picturesque oasis in the midst of a lifeless desert. This place can be a refuge for travelers or a battleground for fights over water and resources in the harsh desert conditions.",
+		"type": "fantasy"
+	},
+	{
+		"id": 10,
+		"name": "City of the Future",
+		"description": "A high-tech city of the future with flying cars, robots, and advanced technologies. Here, players can face technological wonders and moral dilemmas of societal development.",
+		"type": "sci-fi"
+	},
+	{
+		"id": 11,
+		"name": "Mystic Highlands",
+		"description": "Rolling hills and ancient castles shrouded in mist. Here, players can unravel Celtic myths, encounter legendary creatures, and participate in age-old rituals.",
+		"type": "fantasy"
+	},
+	{
+		"id": 12,
+		"name": "Frozen Tundra",
+		"description": "A harsh, icy landscape where survival is a challenge. Players can explore glacial caves, encounter frost giants, and discover hidden magic beneath the ice.",
+		"type": "fantasy"
+	},
+	{
+		"id": 13,
+		"name": "Steampunk Metropolis",
+		"description": "A city where steam-powered machinery and Victorian aesthetics meet. Adventurers can solve intricate puzzles, engage in political intrigue, and invent bizarre contraptions.",
+		"type": "sci-fi"
+	},
+	{
+		"id": 14,
+		"name": "Lost Jungle Temple",
+		"description": "Hidden among dense jungles, these ancient ruins are home to forgotten gods and dangerous traps. Players can decode ancient hieroglyphs, battle jungle creatures, and hunt for sacred treasures.",
+		"type": "fantasy"
+	},
+	{
+		"id": 15,
+		"name": "Sky Islands",
+		"description": "Floating islands high in the sky, reachable only by airships or magical creatures. Here, players can explore floating gardens, encounter sky pirates, and unravel the mysteries of the clouds.",
+		"type": "fantasy"
+	},
+	{
+		"id": 16,
+		"name": "Dystopian Society",
+		"description": "A world where societal order has collapsed, leaving behind a high-tech, yet morally ambiguous landscape. Players can lead rebellions, uncover government secrets, and navigate a world of cybernetics and surveillance.",
+		"type": "sci-fi"
+	},
+	{
+		"id": 17,
+		"name": "Ancient Rome",
+		"description": "From the bustling streets of Rome to the sands of the Colosseum, players can engage in political schemes, gladiatorial combat, and explore ancient ruins.",
+		"type": "fantasy"
+	},
+	{
+		"id": 18,
+		"name": "Ghost Town",
+		"description": "An abandoned town with a haunting past. Players can communicate with spirits, solve the mystery of the town's demise, and face their fears.",
+		"type": "fantasy"
+	},
+	{
+		"id": 19,
+		"name": "Cyberpunk City",
+		"description": "Neon lights, corporate espionage, and a world run by mega-corporations. Here, players can hack into systems, engage in street wars, and fight against or for the corporate overlords.",
+		"type": "sci-fi"
+	},
+	{
+		"id": 20,
+		"name": "Mythical Orient",
+		"description": "A setting inspired by ancient Asian myths and landscapes. Players can embark on quests involving dragons, explore imperial palaces, and learn martial arts from ancient masters.",
+		"type": "fantasy"
+	}
 ]

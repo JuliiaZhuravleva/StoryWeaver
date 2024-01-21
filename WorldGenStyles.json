@@ -1,0 +1,102 @@
+[
+	{
+		"id": 1,
+		"name": "German Style",
+		"description": "Names and terms inspired by German language and culture."
+	},
+	{
+		"id": 2,
+		"name": "Japanese Style",
+		"description": "Utilizing traditional Japanese names and concepts."
+	},
+	{
+		"id": 3,
+		"name": "Russian Style",
+		"description": "Names and places inspired by Russian language and culture."
+	},
+	{
+		"id": 4,
+		"name": "Scandinavian Style",
+		"description": "Elements from Scandinavian mythology and languages."
+	},
+	{
+		"id": 5,
+		"name": "Anglo-Saxon Style",
+		"description": "Names and concepts inspired by medieval England and its legends."
+	},
+	{
+		"id": 6,
+		"name": "Chinese Style",
+		"description": "Names and concepts based on Chinese culture and language."
+	},
+	{
+		"id": 7,
+		"name": "Latin Style",
+		"description": "Using Latin names and terms inspired by the Roman Empire."
+	},
+	{
+		"id": 8,
+		"name": "Greek Style",
+		"description": "Names and plots connected to ancient Greek mythology and history."
+	},
+	{
+		"id": 9,
+		"name": "Egyptian Style",
+		"description": "Using names and concepts associated with ancient Egyptian culture."
+	},
+	{
+		"id": 10,
+		"name": "Indian Style",
+		"description": "References to Indian mythology and culture in names and places."
+	},
+	{
+		"id": 11,
+		"name": "African Style",
+		"description": "Names and elements inspired by various African cultures."
+	},
+	{
+		"id": 12,
+		"name": "Arabic Style",
+		"description": "Using names and concepts from Arabic culture and language."
+	},
+	{
+		"id": 13,
+		"name": "Celtic Style",
+		"description": "Names and mythological elements inspired by Celtic history and myths."
+	},
+	{
+		"id": 14,
+		"name": "Spanish Style",
+		"description": "Using names and elements associated with Spanish culture and history."
+	},
+	{
+		"id": 15,
+		"name": "French Style",
+		"description": "Names and places inspired by French history and culture."
+	},
+	{
+		"id": 16,
+		"name": "Aztec Style",
+		"description": "Names and concepts based on Aztec culture and mythology."
+	},
+	{
+		"id": 17,
+		"name": "Mayan Style",
+		"description": "Using elements of Mayan culture and language."
+	},
+	{
+		"id": 18,
+		"name": "Incan Style",
+		"description": "Names and concepts inspired by Inca culture and mythology."
+	},
+	{
+		"id": 19,
+		"name": "Slavic Style",
+		"description": "Using names and elements from Slavic mythology and history."
+	},
+	{
+		"id": 20,
+		"name": "Mongolian Style",
+		"description": "Names and elements related to Mongolian culture and history."
+	}
+]

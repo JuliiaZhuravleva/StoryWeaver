@@ -1,0 +1,87 @@
+[
+    {
+        "key": "f",
+        "name": "forests",
+        "matplotlib_color": "green"
+    },
+    {
+        "key": "m",
+        "name": "mountains",
+        "matplotlib_color": "gray"
+    },
+    {
+        "key": "d",
+        "name": "deserts",
+        "matplotlib_color": "sandybrown"
+    },
+    {
+        "key": "o",
+        "name": "oceans",
+        "matplotlib_color": "blue"
+    },
+    {
+        "key": "r",
+        "name": "rivers",
+        "matplotlib_color": "lightblue"
+    },
+    {
+        "key": "l",
+        "name": "lakes",
+        "matplotlib_color": "dodgerblue"
+    },
+    {
+        "key": "p",
+        "name": "plains",
+        "matplotlib_color": "khaki"
+    },
+    {
+        "key": "s",
+        "name": "swamps",
+        "matplotlib_color": "darkolivegreen"
+    },
+    {
+        "key": "v",
+        "name": "villages",
+        "matplotlib_color": "burlywood"
+    },
+    {
+        "key": "i",
+        "name": "interdimensional_portals",
+        "matplotlib_color": "magenta"
+    },
+    {
+        "key": "c",
+        "name": "caves",
+        "matplotlib_color": "darkslategray"
+    },
+    {
+        "key": "y",
+        "name": "canyons",
+        "matplotlib_color": "sienna"
+    },
+    {
+        "key": "g",
+        "name": "glaciers",
+        "matplotlib_color": "lightcyan"
+    },
+    {
+        "key": "w",
+        "name": "waterfalls",
+        "matplotlib_color": "aqua"
+    },
+    {
+        "key": "u",
+        "name": "ruins",
+        "matplotlib_color": "darkgray"
+    },
+    {
+        "key": "t",
+        "name": "cities",
+        "matplotlib_color": "silver"
+    },
+    {
+        "key": "a",
+        "name": "castles",
+        "matplotlib_color": "lightsteelblue"
+    }
+]

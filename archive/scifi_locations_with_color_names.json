@@ -1,0 +1,52 @@
+[
+    {
+        "key": "z",
+        "name": "space_stations",
+        "matplotlib_color": "lightgrey"
+    },
+    {
+        "key": "x",
+        "name": "alien_planets",
+        "matplotlib_color": "purple"
+    },
+    {
+        "key": "b",
+        "name": "asteroid_fields",
+        "matplotlib_color": "darkgrey"
+    },
+    {
+        "key": "n",
+        "name": "nebulae",
+        "matplotlib_color": "plum"
+    },
+    {
+        "key": "h",
+        "name": "black_holes",
+        "matplotlib_color": "black"
+    },
+    {
+        "key": "k",
+        "name": "galactic_capitals",
+        "matplotlib_color": "gold"
+    },
+    {
+        "key": "q",
+        "name": "abandoned_spaceships",
+        "matplotlib_color": "silver"
+    },
+    {
+        "key": "j",
+        "name": "underground_cities",
+        "matplotlib_color": "sienna"
+    },
+    {
+        "key": "i",
+        "name": "interdimensional_portals",
+        "matplotlib_color": "magenta"
+    },
+    {
+        "key": "t",
+        "name": "cities",
+        "matplotlib_color": "cyan"
+    }
+]
